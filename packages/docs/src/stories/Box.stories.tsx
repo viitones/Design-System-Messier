@@ -1,4 +1,4 @@
-import { Box, BoxProps } from '@messier-ui/react'
+import { Box, BoxProps, Text } from '@messier-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {
@@ -7,7 +7,7 @@ export default {
   args: {
     children: (
       <>
-        <span>Testando o Box</span>
+        <Text>Testando o Box</Text>
       </>
     ),
   },
