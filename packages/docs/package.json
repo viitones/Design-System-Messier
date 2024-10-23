@@ -13,9 +13,10 @@
   },
   "dependencies": {
     "@messier-ui/eslint-config": "*",
-    "@messier-ui/ts-config": "*",
     "@messier-ui/react": "*",
     "@messier-ui/tokens": "*",
+    "@messier-ui/ts-config": "*",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
