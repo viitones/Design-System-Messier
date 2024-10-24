@@ -34,3 +34,5 @@ export interface TextProps extends ComponentProps<typeof Text> {
   as?: ElementType
   children?: string
 }
+
+Text.displayName = 'Text'

@@ -29,3 +29,5 @@ export interface HeadingProps extends ComponentProps<typeof Heading> {
   as?: ElementType
   children?: string
 }
+
+Heading.displayName = 'Heading'
