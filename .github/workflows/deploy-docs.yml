@@ -1,7 +1,6 @@
 name: Deploy docs 
 
-on: 
-  push: 
+on: push
 
 jobs:
   build-and-deploy:
