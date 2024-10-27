@@ -15,4 +15,6 @@ export const colors = {
   messier500: '#00875F',
   messier700: '#015F43',
   messier900: '#00291D',
+
+  test: '#FFF',
 }
