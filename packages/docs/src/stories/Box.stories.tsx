@@ -1,4 +1,4 @@
-import { Box, BoxProps, Text } from '@messier-ui/react'
+import { Box, BoxProps, Text } from '@hugoway-messier-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

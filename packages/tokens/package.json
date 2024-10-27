@@ -1,5 +1,5 @@
 {
-  "name": "@messier-ui/tokens",
+  "name": "@hugoway-messier-ui/tokens",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -15,6 +15,6 @@
   "devDependencies": {
     "tsup": "^8.3.0",
     "typescript": "^5.6.3",
-    "@messier-ui/eslint-config": "*"
+    "@hugoway-messier-ui/eslint-config": "*"
   }
 }

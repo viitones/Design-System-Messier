@@ -1,4 +1,4 @@
-import { Button, ButtonProps } from '@messier-ui/react'
+import { Button, ButtonProps } from '@hugoway-messier-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 import { ArrowRight } from 'phosphor-react'
 

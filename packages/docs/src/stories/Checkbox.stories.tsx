@@ -1,4 +1,4 @@
-import { Box, Checkbox, CheckboxProps, Text } from '@messier-ui/react'
+import { Box, Checkbox, CheckboxProps, Text } from '@hugoway-messier-ui/react'
 import type { Meta, StoryObj } from '@storybook/react'
 export default {
   title: 'Form/Checkbox',

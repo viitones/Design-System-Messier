@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@messier-ui/tokens'
+} from '@hugoway-messier-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

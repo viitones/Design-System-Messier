@@ -1,6 +1,6 @@
 {
-  "name": "@messier-ui/react",
-  "version": "1.0.0",
+  "name": "@hugoway-messier-ui/react",
+  "version": "2.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -14,8 +14,8 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@messier-ui/eslint-config": "*",
-    "@messier-ui/tokens": "*",
+    "@hugoway-messier-ui/eslint-config": "*",
+    "@hugoway-messier-ui/tokens": "*",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "react": "^18.3.1",

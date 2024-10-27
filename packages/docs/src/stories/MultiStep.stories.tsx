@@ -1,4 +1,4 @@
-import { Box, MultiStep, MultiStepProps } from '@messier-ui/react'
+import { Box, MultiStep, MultiStepProps } from '@hugoway-messier-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

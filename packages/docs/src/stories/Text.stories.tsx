@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@messier-ui/react'
+import { Text, TextProps } from '@hugoway-messier-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps } from '@messier-ui/react'
+import { Avatar, AvatarProps } from '@hugoway-messier-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

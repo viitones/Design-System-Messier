@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from '@messier-ui/react'
+import { Heading, HeadingProps } from '@hugoway-messier-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

@@ -1,4 +1,4 @@
-import { colors } from '@messier-ui/tokens'
+import { colors } from '@hugoway-messier-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

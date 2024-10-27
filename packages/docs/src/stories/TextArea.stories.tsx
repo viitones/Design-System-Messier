@@ -1,4 +1,4 @@
-import { Box, Text, TextArea, TextAreaProps } from '@messier-ui/react'
+import { Box, Text, TextArea, TextAreaProps } from '@hugoway-messier-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@hugoway-messier-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,10 +13,10 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@messier-ui/eslint-config": "*",
-    "@messier-ui/react": "*",
-    "@messier-ui/tokens": "*",
-    "@messier-ui/ts-config": "*",
+    "@hugoway-messier-ui/eslint-config": "*",
+    "@hugoway-messier-ui/react": "*",
+    "@hugoway-messier-ui/tokens": "*",
+    "@hugoway-messier-ui/ts-config": "*",
     "@storybook/addon-a11y": "^8.3.6",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
